@@ -155,7 +155,7 @@ header {
     align-items: center; /* Vertikal rata tengah */
     justify-content: center; /* Pusatkan secara horizontal */
     gap: 20px; /* Jarak antara foto dan teks */
-     /* Responsif: pindahkan elemen jika ruang tidak cukup */
+    flex-wrap: wrap; /* Responsif: pindahkan elemen jika ruang tidak cukup */
     max-width: 800px; /* Batasi lebar kontainer */
     margin: 0 auto; /* Pusatkan kontainer */
 }
