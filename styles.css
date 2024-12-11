@@ -162,8 +162,8 @@ header {
 
 /* Foto Supplier */
 .supplier-photo {
-    width: 230px; /* Ukuran foto */
-    height: 230px;
+    width: 200px; /* Ukuran foto */
+    height: 200px;
     border-radius: 50%; /* Buat foto berbentuk lingkaran */
     border: 3px solid #000100; /* Bingkai hijau */
     object-fit: cover; /* Pastikan gambar tidak terdistorsi */
